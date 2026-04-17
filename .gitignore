@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+*.o
+
+# Simulation output
+output/pcie_sim.log
+
+# OS files
+.DS_Store
